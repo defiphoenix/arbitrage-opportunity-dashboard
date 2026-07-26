@@ -1,0 +1,6 @@
+{
+  "name": "Solana Arbitrage Opportunity Dashboard",
+  "description": "Real-time dashboard monitoring Solana DEX arbitrage opportunities with WebSocket stream, PnL metrics, spread analytics, and trade execution telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
